@@ -10,7 +10,7 @@ This course was originally designed for master's students in big data and AI.
 
 | Week | Topic | Repository Link |
 |------|--------|-----------------|
-| 1 | Introduction & Data Profiling | [Week 1 Repo](https://github.com/NoCh-Git/big-data-and-business-intelligencel-week1) |
+| 1 | Introduction to Big Data and Business Intelligence | [Week 1 Repo](https://github.com/NoCh-Git/big-data-and-business-intelligencel-week1) |
 | 2 | Exploratory Data Analysis (EDA) | [Week 2 Repo](https://github.com/NoCh-Git/big-data-and-business-intelligencel-week2) |
 | 3 | Data Transformation & Feature Engineering | [Week 3 Repo](https://github.com/NoCh-Git/big-data-and-business-intelligencel-week3) |
 | 4 | Wireframing and KPI refinement | [Week 4 Repo](https://github.com/NoCh-Git/big-data-and-business-intelligencel-week4) (palceholder)|
