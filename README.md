@@ -14,8 +14,8 @@ This course was originally designed for master's students in big data and AI.
 | 2 | Exploratory Data Analysis (EDA) | [Week 2 Repo](https://github.com/NoCh-Git/big-data-and-business-intelligencel-week2) |
 | 3 | Data Transformation & Feature Engineering | [Week 3 Repo](https://github.com/NoCh-Git/big-data-and-business-intelligencel-week3) |
 | 4 | Spark Tutorial and Wireframing and KPI refinement | [Week 4 Repo](https://github.com/NoCh-Git/apache-spark-python-tutorial)|
-| 5 | Making a Dashboard for Users | [Week 5 Repo](https://github.com/NoCh-Git/big-data-and-business-intelligencel-week5) (palceholder)|
-| 6 | Project & Presentation | [Week 6 Repo](https://github.com/NoCh-Git/big-data-and-business-intelligencel-week6) (palceholder)|
+| 5 | Making a Dashboard for Users | [Week 5 Repo](https://github.com/NoCh-Git/streamlit-app-template)|
+| 6 | Project & Presentation | [Projects Organization](https://github.com/BigData-SRH)|
 
 ---
 
